@@ -1,0 +1,8 @@
+# Ignore executables
+*.exe
+
+# Ignore generated files
+*.txt
+
+# Ignore output folder
+output/
